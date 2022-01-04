@@ -1,0 +1,827 @@
+{
+    "shelves": [
+        [
+            {
+                "productType": "pasta",
+                "quantity": 10,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "pasta",
+                "quantity": 5,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "ab",
+                "quantity": 10,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "bleach",
+                "quantity": 5,
+                "shelveType": [
+                    "hazard"
+                ],
+                "shelveMaxSize": 10
+            }
+        ],
+        [
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "hazard"
+                ],
+                "shelveMaxSize": 10
+            }
+        ],
+        [
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "hazard"
+                ],
+                "shelveMaxSize": 10
+            }
+        ],
+        [
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "hazard"
+                ],
+                "shelveMaxSize": 10
+            }
+        ],
+        [
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "hazard"
+                ],
+                "shelveMaxSize": 10
+            }
+        ],
+        [
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "hazard"
+                ],
+                "shelveMaxSize": 10
+            }
+        ],
+        [
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "hazard"
+                ],
+                "shelveMaxSize": 10
+            }
+        ],
+        [
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "chilled"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "chilled"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "insulin",
+                "quantity": 10,
+                "shelveType": [
+                    "chilled",
+                    "hazard"
+                ],
+                "shelveMaxSize": 10
+            }
+        ],
+        [
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "chilled"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "chilled"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "insulin",
+                "quantity": 15,
+                "shelveType": [
+                    "chilled",
+                    "hazard"
+                ],
+                "shelveMaxSize": 10
+            }
+        ],
+        [
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "other"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "chilled"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "",
+                "quantity": 0,
+                "shelveType": [
+                    "chilled"
+                ],
+                "shelveMaxSize": 10
+            },
+            {
+                "productType": "insulin",
+                "quantity": 10,
+                "shelveType": [
+                    "chilled",
+                    "hazard"
+                ],
+                "shelveMaxSize": 10
+            }
+        ]
+    ]
+}
